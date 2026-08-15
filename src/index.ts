@@ -7,3 +7,4 @@ export * from './Screenshots/screenshots';
 export * from './Sessions/sessions';
 export * from './Automation/automation';
 export * from './Forms/forms';
+export * from './Lite/litebrowser';
